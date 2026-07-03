@@ -2,3 +2,4 @@
 
 Weekly Seminars, homeworks and other materials:
 * [week1 Embeddings/Text Classification](https://github.com/AzamFCS/nlp_course/tree/main/week1)
+* [week2 Language Modeling](https://github.com/AzamFCS/nlp_course/tree/main/week2)
